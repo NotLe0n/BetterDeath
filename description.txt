@@ -1,0 +1,1 @@
+This mod simply allows you to open your inventory, map and the settings while you're dead.
