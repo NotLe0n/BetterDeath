@@ -1,7 +1,9 @@
 displayName = Open Inventory while dead
 author = NotLe0n
-version = 0.1
+version = 1.0
 hideCode = false
 hideResources = false
 includeSource = false
 buildIgnore = vs/*, *.csproj, *.sln, *.pidb, *.userprefs, *.user, obj/*, bin/*
+side = client
+homepage = https://github.com/NotLe0n/BetterDeath

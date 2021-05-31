@@ -1,1 +1,5 @@
 This mod simply allows you to open your inventory, map and the settings while you're dead.
+
+Changelog:
+v1.0 - Added homepage, Made mod Client Side
+v0.1 - Initial release
